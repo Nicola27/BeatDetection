@@ -1,2 +1,1 @@
-# BeatDetection
-Beat Detection Project
+BeatDetectionAudio
